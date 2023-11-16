@@ -94,5 +94,6 @@
 
 3) Два сервера будут работать как master-сервера, для повышения производительности можно к первому серверу добавить slave-сервер.
 
-![block-shema.png]()`
+![block-shema.png](https://github.com/oleghamov/Replik-Mashtab.2-12-07-16-11-23-hw-/blob/master/block-shema.png)`
+
 
